@@ -1,3 +1,5 @@
 = MailForm
 
+Demonstrating the extendability of Rails by writing a plugin for controlling email attributes.
+
 This project rocks and uses MIT-LICENSE.
