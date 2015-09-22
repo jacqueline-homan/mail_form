@@ -2,4 +2,6 @@
 
 Demonstrating the extendability of Rails by writing a plugin for controlling email attributes.
 
+This plugin app uses Ruby v2.2.0 and Rails 4.2.3
+
 This project rocks and uses MIT-LICENSE.
